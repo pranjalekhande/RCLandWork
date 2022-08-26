@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: de.mrmaffen:libvlc-android:2.1.12@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c112d63eb09372c43512f8c6d2dc8bed/jetified-libvlc-android-2.1.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c112d63eb09372c43512f8c6d2dc8bed/jetified-libvlc-android-2.1.12/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mrmaffen/libvlc-android/2.1.12/e09c0f31615b96147fe8eaf2b254f06ad6ec1605/libvlc-android-2.1.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mrmaffen/libvlc-android/2.1.12/d9666028cc98baad455f2a2b56616c97b40c5fcf/libvlc-android-2.1.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
